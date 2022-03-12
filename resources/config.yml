@@ -1,0 +1,7 @@
+# Do you want to show message to a player when they try to sleep?
+# Accepted values "true" or "false"
+send_message: true
+
+# Only use this if send_message: true
+# What message do you want to send the player when they try to enter the bed?
+message: "it isn't allowed"
