@@ -2,11 +2,11 @@
 
 ![NoSleep](https://user-images.githubusercontent.com/66917109/158013694-62fbfd3f-4542-4057-9897-3e9ff9daddcc.png)
 
-<h1>Features</1>
+# Features</1>
 
-<p>Prevents player from sleeping in bed at night</p>
+Prevents player from sleeping in bed at night
 
-<h1>Config</h1>
+# Config
 
 ```yaml
 # Do you want to show message to a player when they try to sleep?
