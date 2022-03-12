@@ -2,7 +2,7 @@
 
 ![NoSleep](https://user-images.githubusercontent.com/66917109/158013694-62fbfd3f-4542-4057-9897-3e9ff9daddcc.png)
 
-# Features</1>
+# Features
 
 Prevents player from sleeping in bed at night
 
