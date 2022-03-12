@@ -4,7 +4,7 @@
 
 <h1>Features</1>
 
-Prevents player from sleeping in bed at night
+<p>Prevents player from sleeping in bed at night</p>
 
 <h1>Config</h1>
 
