@@ -1,3 +1,4 @@
+# Config for NoSleep by DeadBush
 # Do you want to show message to a player when they try to sleep?
 # Accepted values "true" or "false"
 send_message: true
